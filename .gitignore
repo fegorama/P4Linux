@@ -1,0 +1,27 @@
+# Build artifacts
+/build/*
+/output/*
+
+# External sources
+/kernel/*
+/third-party/*
+/toolchain/*
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Compiled binaries
+*.o
+*.elf
+*.bin
+*.img
+*.map
+
+# IDE
+.vscode/
+.DS_Store
+
+# Preserve directory structure
+!.gitkeep
