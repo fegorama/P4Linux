@@ -25,3 +25,4 @@ __pycache__/
 
 # Preserve directory structure
 !.gitkeep
+/rootfs/overlay/usr/bin/p4hello
