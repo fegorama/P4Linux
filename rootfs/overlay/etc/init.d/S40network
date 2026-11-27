@@ -1,0 +1,11 @@
+#!/bin/sh
+
+case "$1" in
+    start)
+        echo "Network: disabled in this P4Linux build"
+        ;;
+    stop)
+        ;;
+esac
+
+exit 0
